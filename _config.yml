@@ -18,11 +18,10 @@ email: hello@bookscape.com
 description: >- # this means to ignore newlines until "baseurl:"
   Read to escape reality.
 baseurl: "/wtf-blog" # the subpath of your site, e.g. /blog
-url: "https://suryarajendhran.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://suryarajendhran.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 icon: /assets/images/icon-512.png
-github_username:  suryarajendhran
+github_username: suryarajendhran
 hide_credits: true
-
 
 # Build settings
 markdown: kramdown

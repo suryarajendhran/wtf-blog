@@ -3,7 +3,7 @@ layout: page
 title: "Hitchens"
 ---
 
-An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
+An inarguably well-designed [Jekyll](https://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
 
 ![Hitchens Preview](https://raw.githubusercontent.com/patdryburgh/hitchens/master/screenshot.png)
 
@@ -111,7 +111,6 @@ excerpt_length: 0
 
 If you do this, the theme will still respect Jekyll's `excerpt_separator` feature as [described in the Jekyll documentation](https://jekyllrb.com/docs/posts/#post-excerpts).
 
-
 #### Title-less Posts
 
 If you want to publish posts that don't have a title, add the following setting to the [front matter](https://jekyllrb.com/docs/frontmatter/) of the post:
@@ -154,7 +153,7 @@ hide_credits: true
 
 ### Search
 
-The theme uses a [custom DuckDuckGo Search Form](https://patdryburgh.com/blog/adding-a-custom-duckduckgo-search-bar-to-your-site/) that can be turned off by including the following line in your site's `_config.yml` file: 
+The theme uses a [custom DuckDuckGo Search Form](https://patdryburgh.com/blog/adding-a-custom-duckduckgo-search-bar-to-your-site/) that can be turned off by including the following line in your site's `_config.yml` file:
 
 ```
 hide_search: true
@@ -172,17 +171,17 @@ A [copy of the license](https://github.com/patdryburgh/hitchens/blob/master/asse
 
 Bug reports, feature requests, and pull requests are welcome on GitHub at [https://github.com/patdryburgh/hitchens](https://github.com/patdryburgh/hitchens).
 
-This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://contributor-covenant.org) code of conduct.
 
 ## Development
 
 To set up your environment to develop this theme, run `bundle install`.
 
-The theme is setup just like a normal Jekyll site. To test the theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using the theme. Add pages, documents, data, etc. like normal to test the theme's contents. As you make modifications to the theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+The theme is setup just like a normal Jekyll site. To test the theme, run `bundle exec jekyll serve` and open your browser at `https://localhost:4000`. This starts a Jekyll server using the theme. Add pages, documents, data, etc. like normal to test the theme's contents. As you make modifications to the theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
 
 ## License
 
-The code for this theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT). 
+The code for this theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 The font, EB Garamond, is Copyright 2017 The EB Garamond Project Authors and licensed under the [SIL Open Font License Version 1.1](https://github.com/patdryburgh/hitchens/blob/master/assets/fonts/OFL.txt).
 

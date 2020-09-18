@@ -21,6 +21,8 @@ baseurl: "/wtf-blog" # the subpath of your site, e.g. /blog
 url: "https://suryarajendhran.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 github_username:  suryarajendhran
+hide_credits: true
+
 
 # Build settings
 markdown: kramdown
